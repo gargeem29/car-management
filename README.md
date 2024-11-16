@@ -16,5 +16,7 @@ This is a simple Car Management App where users can login and signup, add inform
 
 ![image](https://github.com/user-attachments/assets/de44f04f-1142-4e76-aaba-3270c7676dc4)
 
+![image](https://github.com/user-attachments/assets/1cec732b-177a-44da-b285-6856da4104e1)
+
 
 
