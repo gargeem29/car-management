@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: "http://localhost:8000/api", // Adjust according to your backend URL
+    // baseURL: "http://localhost:8000/api", // Adjust according to your backend URL
+    baseURL: "https://car-management-h1kj.onrender.com/api", // Adjust according to your backend URL
 });
 
 export const setAuthToken = (token) => {
